@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman:wght@700&display=swap');
+
+
+body{
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-image: url(../HealthAndWellbeing/Images/AdobeStock_75003885.jpeg)
+}
+
+h1{
+    text-align: center;
+    color: blanchedalmond;
+    font-family: 'Goldman', cursive;
+}
